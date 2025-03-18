@@ -4,6 +4,7 @@ https://www.udemy.com/course/asp-net-core-developing-web-api-functionalities
 
 Build web api with user authorization & authentication with C# ASP.NET Core, Entity Framework, Azure + Linux/macOS guide
 
+
 Authenticate & authorize users via JWT token
 Deploy C# ASP .NET Core application and Database to Azure cloud
 Automatic database migrations with Entity Framework Core
